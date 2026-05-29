@@ -1,0 +1,36 @@
+# Build directories
+build/
+CMakeFiles/
+*.cmake
+CMakeCache.txt
+Makefile
+
+# Compiled objects
+*.o
+*.a
+*.so
+*.dylib
+*.lib
+*.exe
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Executables
+chatbot
+chatbot.exe
+
+# CMake
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+
+# Dependencies
+deps/
+include/
+lib/
